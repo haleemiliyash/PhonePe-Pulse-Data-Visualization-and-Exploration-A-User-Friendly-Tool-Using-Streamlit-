@@ -15,5 +15,5 @@ SQLAlchemy is an open-source SQL toolkit and object-relational mapper (ORM) for 
 LIBRARIES USED:Streamlit -SQLAlchemy -mysql.connector -Pandas -Plotly.express -OS module-Request library
 
 Objective of the Project:
-By Github clone exetract the data from PhonePe pulse data of Year(2018-2023). Preprocess and clean the data and covert into proper dataframe and transfer into SQL database.From the SQL database data are retived and visualized in Stramlit app with user friendly Dashboard.
+By GitHub clone extract the data from Phone Pe pulse data of Year (2018-2023). Preprocess and clean the data and covert into proper data frame and transfer into SQL database. From the SQL database data are retrieved and visualized in Streamlit app with user friendly Dashboard.
 
